@@ -10,26 +10,26 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("/assets/img/cinescolarraulRosales.jpg");
+  background-image: url("../img/cinescolarraulRosales.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
 }
 
 .image-top {
-  background-image: url("/assets/img/Trabajoenequipo.jpg");
+  background-image: url("../img/Trabajoenequipo.jpg");
   background-size: cover;
 
 }
 
 .image-top1 {
-  background-image: url("/assets/img/esculturageometrica1.jpeg");
+  background-image: url("../img/esculturageometrica1.jpeg");
   background-size: cover;
   height: 250px;
 }
 
 .image-top2 {
-  background-image: url("/assets/img/pexels-pixabay-262034.jpg");
+  background-image: url("../img/pexels-pixabay-262034.jpg");
   background-size: cover;
   height: 250px;
 }
